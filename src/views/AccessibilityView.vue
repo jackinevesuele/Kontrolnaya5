@@ -28,7 +28,7 @@
             }"
           >
             <h3 style="margin-bottom: 0.5rem;">Пример текста</h3>
-            <p style="margin: 0.5rem 0;">Босарев Евгений ЭФБО-11-24</p>
+            <p style="margin: 0.5rem 0;">Ведзижев Саид ЭФБО-11-24</p>
             <div style="margin-top: 1rem; padding-top: 1rem; border-top: 1px solid rgba(255,255,255,0.3);">
               <div><strong>Контраст: {{ combo.ratio.toFixed(2) }}:1</strong></div>
               <div style="margin: 0.5rem 0;">
